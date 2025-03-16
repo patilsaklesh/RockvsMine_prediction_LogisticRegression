@@ -19,7 +19,5 @@ Rock_vs_Mine_Prediction/
 🔧 Setup & Installation
 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your_username/Rock_vs_Mine_Prediction.git
+git clone https://github.c om/your_username/Rock_vs_Mine_Prediction.git
 cd Rock_vs_Mine_Prediction
-
-🚀 Star the Repo if You Found It Useful! 🌟
