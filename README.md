@@ -4,15 +4,15 @@
 This project aims to classify whether a given sonar signal represents a rock or a mine using Logistic Regression. The dataset consists of sonar readings, where each instance has multiple frequency-based features.
 
 
-📂 Project Structure
-Rock_vs_Mine_Prediction/
-│── sonar_data.csv
-│
-│── Rock_vs_Mine_Classification.ipynb 
-│
-│── .gitignore
-│
-│── README.md
+📂 Project Structure 
+
+Rock_vs_Mine_Prediction/ 
+
+│── sonar_data.csv                    # Data setused for training 
+
+│── Rock_vs_Mine_Classification.ipynb # Notebook for EDA & Model Training 
+
+│── .gitignore │── README.md          # Project documentation
 
 
 
